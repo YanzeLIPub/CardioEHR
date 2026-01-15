@@ -1,11 +1,12 @@
 # CardioEHR Dataset – Data Use Agreement (DUA)
-**Version 1.0 — November 2025**
+**Version 2.0 — January 2026**
 
 ---
 
 ## 1. Preamble
-This **Data Use Agreement (the “Agreement”)** governs the access and use of the *CardioEHR* dataset (the “Dataset”) released by the Data Provider (“Provider”).  
-The Dataset consists of de-identified electronic health record (EHR) data collected from participating hospitals in China and is shared **for non-commercial scientific research purposes only**.
+The CardioEHR dataset comprises de-identified clinical electronic health records (EHR) and associated patient socioeconomic data. Due to the sensitive nature of human data, it is shared under controlled access. This Agreement is designed to facilitate responsible scientific use while prioritizing the protection of participant privacy and welfare. 
+
+By registering for and accessing the CardioEHR dataset, you agree to be bound by all terms and conditions outlined below.
 
 The Dataset and its use are subject to the laws and regulations of the **People’s Republic of China (PRC)** concerning personal information protection, medical data security, and scientific data governance.
 
@@ -20,58 +21,42 @@ The Dataset and its use are subject to the laws and regulations of the **People�
 
 ---
 
-## 3. Grant of Access
-The Provider grants the Recipient a **non-exclusive, non-transferable, revocable license** to access and use the Dataset **solely for Authorized Use**.  
-The Dataset remains the sole property of the Provider and is provided *as-is* for academic research.
+## 3. Access & Security Obligations
+You must register using an official email address from your academic, research, or corporate institution to verify your professional affiliation.
+You agree to implement appropriate technical and organizational measures to secure the Dataset against unauthorized access, disclosure, or loss, with a level of care equivalent to how your institution protects its own confidential information.
 
 ---
 
-## 4. Restrictions on Use
+## 4. Permitted Uses & Restrictions
 The Recipient agrees to the following restrictions:
 
-1. **No Re-identification** — The Recipient shall not attempt to identify, or enable the identification of, any individual represented in the Dataset.  
-2. **No Sensitive Attribute Inference** — The Recipient shall not use the Dataset to infer or reveal any individual’s **sex, race, ethnicity, religion, political affiliation, or fine-grained geographic location** (e.g., city, county, hospital, or ward).  
-3. **No Data Linkage for Identification** — The Recipient shall not combine the Dataset with other datasets or external information sources for the purpose of re-identification or attribute inference.  
-4. **No Redistribution** — The Recipient shall not share, sublicense, sell, or redistribute the Dataset, in whole or in part, to any third party without prior written consent from the Provider.  
-5. **Compliance with PRC Law** — The Dataset shall not be exported, shared, or used in violation of PRC data governance and medical information protection regulations.  
-6. **Research-Only Use** — The Dataset shall not be used for commercial purposes, clinical decision-making, or proprietary product development.
+1. **Primary Use** — The Dataset may be used for legitimate scientific research and internal analysis.  
+2. **Explicit Permission for Commercial R&D** — This expressly includes non-directly commercial research and development activities within commercial organizations, such as the development of drugs, diagnostic tools, or medical devices.  
+3. **Explicit Prohibitions** — You expressly agree NOT to:
+   a) Attempt to identify or re-identify any individual contained in the Dataset;
+   b) Redistribute, transfer, sell, license, or otherwise provide the Dataset, in whole or in part, to any third party who has not been granted access under this Agreement;
+   c) Use the Dataset or Derived Results for direct commercial profit, such as reselling or licensing it as a standalone data product or service.  
 
 ---
 
-## 5. Data Security and Confidentiality
-1. The Recipient shall implement appropriate **technical, administrative, and physical safeguards** to protect the Dataset from unauthorized access or disclosure.  
-2. Access shall be restricted to authorized research personnel who have reviewed and agreed to the terms of this Agreement.  
-3. The Dataset shall **not be uploaded to public servers, shared cloud drives, or repositories** not controlled by the Recipient’s institution or the Provider.  
-4. Any breach of confidentiality or suspected re-identification must be reported to the Provider within **48 hours**.
+## 5. Publication & Attribution
+1. Mandatory Citation: Any publication, report, or public presentation that employs the CardioEHR Dataset must formally cite the Dataset and its related primary publication using a standard scholarly format (e.g., providing the Dataset DOI and the relevant citation).  
+2. Acknowledgement of the Data Provider in publications is encouraged but not mandatory.  
 
 ---
 
-## 6. Publications and Derivative Works
-1. Publications or presentations based on the Dataset must include the following acknowledgment:  
-   > “This study used de-identified data from the CardioEHR dataset provided under controlled access by the data contributors from Wuhan Union Hospital and collaborating institutions.”  
-2. The Recipient must notify the Provider prior to any planned publication or derivative dataset release.  
-3. The Recipient may publish analyses and models derived from the Dataset, provided that no attempt is made to reconstruct or redistribute the original data.
+## 6. Termination
+1. The Data Provider may terminate your access immediately if you breach any term of this Agreement.  
 
 ---
 
-## 7. Termination
-1. The Provider may suspend or revoke access to the Dataset if the Recipient violates this Agreement.  
-2. Upon termination or completion of the approved research project, the Recipient shall **destroy all copies** of the Dataset and certify such destruction to the Provider.
-
----
-
-## 8. Disclaimer of Warranties
-The Dataset is provided **“as-is”** without any warranty, express or implied. The Provider makes no representation as to the completeness or accuracy of the Dataset and shall not be liable for any damages arising from its use.
-
----
-
-## 9. Governing Law and Jurisdiction
+## 7. Governing Law and Jurisdiction
 This Agreement shall be governed by and construed in accordance with the laws of the **People’s Republic of China**.  
 Any dispute arising out of or in connection with this Agreement shall be submitted to the competent court located in **Wuhan, Hubei Province, PRC**.
 
 ---
 
-## 10. Data Custodians and Contact Information
+## 8. Data Custodians and Contact Information
 For data access requests, compliance inquiries, or ethical approvals, please contact:
 
 **Yanze Li** — *Data Custodian*  
