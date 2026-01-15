@@ -13,7 +13,7 @@ The Dataset and its use are subject to the laws and regulations of the **Peopleâ
 ---
 
 ## 2. Definitions
-- **Dataset**: The de-identified EHR dataset provided by the Provider, including the tables `patient_info`, `visit_record`, `diagnosis`, and `lab_test`, as well as associated metadata and documentation.  
+- **Dataset**: The de-identified EHR dataset provided by the Provider, including the tables `patient_info`, `visit_record`, `diagnosis`, `lab_test` and `socioeconomic_index`, as well as associated metadata and documentation.  
 - **De-identified**: All direct personal identifiers have been removed or replaced with pseudonymous codes to prevent direct identification.  
 - **Secondary identification**: Any attempt to re-identify an individual, or infer their true identity, or derive attributes such as **sex, race, ethnicity, religion, or detailed geographic location** below the provincial level.  
 - **Recipient**: The researcher, student, or institution that accesses or downloads the Dataset under this Agreement.  
