@@ -77,4 +77,4 @@ Wuhan Union Hospital, Tongji Medical College, Huazhong University of Science and
 
 ---
 
-© 2025 CardioEHR Project. Released under controlled access for non-commercial research use.
+© 2025 CardioEHR Project. Released under controlled access for research use.
